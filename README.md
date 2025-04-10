@@ -1,2 +1,4 @@
 # iAuto-Bin
-iAuto 
+iAuto
+Download
+Update Log
